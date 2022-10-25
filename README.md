@@ -2,6 +2,7 @@
 
 I have just included the workspace because I am workiing on the other parts and changing the folder will imply that I have to change the source devels.
 
+
 I didnt learn ROS properly when it was initially taught and didn't do the initial assignments and thus never got my doubts cleared. So I relearnt ROS through the ETH.
 
 I will keep learning it after you remove me. Just like let me be in the server and like learn the stuff. I just want to learn. 
