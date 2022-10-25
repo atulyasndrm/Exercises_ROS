@@ -1,0 +1,4 @@
+Symlinking /home/atulya/E1/smb_ws/devel/share/smb_gazebo/cmake/smb_gazeboConfig.cmake
+Symlinking /home/atulya/E1/smb_ws/devel/share/smb_gazebo/cmake/smb_gazeboConfig-version.cmake
+Symlinking /home/atulya/E1/smb_ws/devel/lib/libodometry_source_plugin.so
+Symlinking /home/atulya/E1/smb_ws/devel/lib/pkgconfig/smb_gazebo.pc

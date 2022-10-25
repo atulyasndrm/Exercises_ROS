@@ -1,0 +1,5 @@
+_workspace_packages=( ${(Q)"${(z)$(<<\EO:_workspace_packages
+'smb_control' 'smb_description' 'smb_gazebo' 'teleop_twist_keyboard' 'teleop_twist_keyboard_cpp'
+EO:_workspace_packages
+)}"} )
+_workspace_cache_file_path='/home/atulya/E1/smb_ws/.catkin_tools/cache'

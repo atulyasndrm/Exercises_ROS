@@ -1,0 +1,6 @@
+devel_space: /home/atulya/E1/smb_ws/devel
+install: false
+install_space: /home/atulya/E1/smb_ws/install
+profile: default
+source_space: /home/atulya/E1/smb_ws/src
+workspace: /home/atulya/E1/smb_ws
