@@ -1,6 +1,6 @@
 # Please Forgive Me
 
-I have just included the workspace because I am workiing on the other parts and changing the folder will imply that I have to change the source devels.
+I have just included the workspace because I am working on the other parts and changing the folder will imply that I have to change the source devels.
 
 
 I will still work on the documentation, if you allow me, cause that was a lot of fun to do. Then you can remove me.
